@@ -48,5 +48,5 @@ OPENSTACK_USER_DOMAIN_NAME=Default
 OPENSTACK_PROJECT_DOMAIN_NAME=Default
 ```
 
-### 5.
+### 5. Youtube video link  - https://youtu.be/7jE-FUFkK9E
 
